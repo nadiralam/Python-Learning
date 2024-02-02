@@ -1,0 +1,28 @@
+# 1) len()
+# 2) min()
+# 3) max()
+# 4) sorted()
+
+# 5) Capitalize()
+# 6) title()
+# 7) upper()
+# 8) lower()
+# 9) swapcase()
+
+# 10) count()
+# 11) find()
+# 12) Index()
+# 13) endswith()
+# 14) startswith()
+# 15) format()
+
+# 16) isalnum()
+# 17) isalpha()
+# 18) isdecimal()
+# 19) isdigit()
+# 20) isidentifier()
+
+# 21) split()
+# 22) join()
+# 23) replace()
+# 24) strip()
